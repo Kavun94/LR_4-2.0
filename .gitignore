@@ -1,0 +1,6 @@
+
+$ cat .gitignore
+*txt
+/TODO
+build/
+!lib.a
